@@ -13,4 +13,3 @@ scikit-learn
 sklearn
 gunicorn
 datetime
-math
