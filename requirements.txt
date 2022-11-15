@@ -1,14 +1,9 @@
-certifi
-chardet
-click
 flask
-idna
-itsdangerous
 Jinja2
 joblib
 MarkupSafe
 numpy
-requests
+pandas
 scikit-learn
 sklearn
 gunicorn
